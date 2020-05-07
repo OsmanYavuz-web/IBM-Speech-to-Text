@@ -1,0 +1,8 @@
+G:\OsmanYavuz-web\IBM-Speech-to-Text\IBM.SpeechToText\IBM.SpeechToText\bin\Debug\netstandard2.0\IBM.SpeechToText.deps.json
+G:\OsmanYavuz-web\IBM-Speech-to-Text\IBM.SpeechToText\IBM.SpeechToText\bin\Debug\netstandard2.0\IBM.SpeechToText.dll
+G:\OsmanYavuz-web\IBM-Speech-to-Text\IBM.SpeechToText\IBM.SpeechToText\bin\Debug\netstandard2.0\IBM.SpeechToText.pdb
+G:\OsmanYavuz-web\IBM-Speech-to-Text\IBM.SpeechToText\IBM.SpeechToText\obj\Debug\netstandard2.0\IBM.SpeechToText.csprojAssemblyReference.cache
+G:\OsmanYavuz-web\IBM-Speech-to-Text\IBM.SpeechToText\IBM.SpeechToText\obj\Debug\netstandard2.0\IBM.SpeechToText.AssemblyInfoInputs.cache
+G:\OsmanYavuz-web\IBM-Speech-to-Text\IBM.SpeechToText\IBM.SpeechToText\obj\Debug\netstandard2.0\IBM.SpeechToText.AssemblyInfo.cs
+G:\OsmanYavuz-web\IBM-Speech-to-Text\IBM.SpeechToText\IBM.SpeechToText\obj\Debug\netstandard2.0\IBM.SpeechToText.dll
+G:\OsmanYavuz-web\IBM-Speech-to-Text\IBM.SpeechToText\IBM.SpeechToText\obj\Debug\netstandard2.0\IBM.SpeechToText.pdb
