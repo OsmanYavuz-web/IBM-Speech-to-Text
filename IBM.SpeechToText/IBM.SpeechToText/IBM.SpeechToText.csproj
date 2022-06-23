@@ -7,7 +7,7 @@
   <ItemGroup>
     <PackageReference Include="IBM.Watson.SpeechToText.v1" Version="4.4.0" />
     <PackageReference Include="IBM.WatsonDeveloperCloud.SpeechToText.v1" Version="2.17.0" />
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
   </ItemGroup>
 
 </Project>
